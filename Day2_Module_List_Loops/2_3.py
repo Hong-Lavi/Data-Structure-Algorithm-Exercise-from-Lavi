@@ -16,4 +16,4 @@ def Star_Z(n):
             print(" "*(n-i)+"*"+" "*(i-1))
     return "GoodNight"
 
-print(Star_Z(5))
+print(Star_Z(8))
