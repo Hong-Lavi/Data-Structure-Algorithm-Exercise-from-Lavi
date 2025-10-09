@@ -1,0 +1,6 @@
+hello, key, print
+my name is lavi
+welcome to python
+I want to check File IO
+Bye
+Merci~
